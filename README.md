@@ -57,7 +57,7 @@ SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
 ## 🔔展望
 
-EtherWatchdog的未来绝不仅仅是一个普通的智能合约漏洞检测平台，它有能力成为像**EtherScan**一样优秀的**区块链搜索**、**API**和**分析平台**。我们致力于
+畅想一下未来，EtherWatchdog的未来绝不仅仅是一个普通的智能合约漏洞检测平台，它有能力成为像**Etherscan**一样优秀的**区块链搜索**、**API**和**分析平台**。
 
 ## 🔔Citation
 
