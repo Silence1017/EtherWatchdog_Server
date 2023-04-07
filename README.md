@@ -1,5 +1,12 @@
-# EtherWatchdog🐶
-## 让我们来帮助你解决最棘手的安全问题😄😏😆
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Silence1017/EtherWatchdog_Dapp/main/images/card.png" align="middle"  width="500" />
+</p>
+
+------------------------------------------------------------------------------------------
+
+<p align="center">
+  让🐶来帮助你解决最棘手的安全问题😄😏😆
+</p>
 简介：EtherWatchdog是一款通过**交易**的操作码序列**实时**检测智能合约漏洞的安全平台，我们全面的智能合约漏洞检测服务可以帮助从初创公司到企业的每个人维护他们的以太坊区块链应用程序。
 
 ## 🌎后端环境需求
