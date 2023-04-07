@@ -5,6 +5,7 @@
 ## 后端环境需求
 1. Java
 2. Python
+3. [Bitquery](https://explorer.bitquery.io/)
 
 ## 具体实现方法
 客户端发出请求，Java客户端收到请求立刻进行socket通信向Python深度学习模型发出请求检测操作码序列，Python监听到请求后进行检测将结果返回给Java，Java服务器返回响应结果给客户端。
@@ -48,7 +49,7 @@ The CNN-BiLSTM modle structure is below:
 ```
 ## Java Project
 
-SpringBoot+MyBatis Plus+Mongodb
+SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
 ## About Us
 
