@@ -77,3 +77,6 @@ Lingnan Ethereum Darkness Agent
 
 ✉️: cswygu@qq.com
 
+## License
+
+PaddleNLP遵循[Apache-2.0开源协议](./LICENSE)。
