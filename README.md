@@ -7,7 +7,7 @@
 2. Python
 
 
-## Requirements
+## Python Requirements
 
 - Python 3.6
 - Tensorflow 1.15.0
