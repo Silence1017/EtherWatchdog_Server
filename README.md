@@ -6,6 +6,9 @@
 1. Java
 2. Python
 
+## 具体实现方法
+客户端发出请求，Java客户端收到请求立刻进行socket通信向Python深度学习模型发出请求检测操作码序列，Python监听到请求后进行检测将结果返回给Java，Java服务器返回响应结果给客户端。
+关于数据集，交易操作码序列通过EVM插桩技术获取存储到mongodb数据库，充当以太坊全节点。
 
 ## Python Requirements
 
