@@ -89,10 +89,19 @@ SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
 ## 👦👧About Us
 
-Lingnan Ethereum Darkness Agent
-
+**Lingnan Ethereum Darkness Agent**
 
 ✉️: cswygu@qq.com
+
+✉️: 1257311626@qq.com
+
+✉️: ouzhsh@126.com
+
+✉️: 835837078@qq.com
+
+✉️: 963544587@qq.com
+
+最最感谢我们的博士师兄李培强以及**老王**❤️
 
 ## License
 
