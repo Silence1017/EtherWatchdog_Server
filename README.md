@@ -44,6 +44,10 @@ The CNN-BiLSTM modle structure is below:
 ├── README.md
 └── requirements.txt
 ```
+## Java Project
+
+SpringBoot+MyBatis Plus+Mongodb
+
 ## About Us
 
 Lingnan Ethereum Darkness Agent
