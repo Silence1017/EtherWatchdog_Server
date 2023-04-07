@@ -1,5 +1,5 @@
-# EtherWatchdog
-## 让我们来帮助你解决最棘手的安全问题
+# EtherWatchdog🐶
+## 让我们来帮助你解决最棘手的安全问题😄😄😄
 简介：EtherWatchdog是一款通过交易的操作码序列实时检测智能合约漏洞的安全平台，我们全面的智能合约漏洞检测服务可以帮助从初创公司到企业的每个人维护他们的以太坊区块链应用程序。
 
 ## 后端环境需求
@@ -7,11 +7,11 @@
 2. Python
 3. [Bitquery](https://explorer.bitquery.io/)
 
-## ⚡ 具体实现
+## 💡具体实现
 客户端发出请求，Java客户端收到请求立刻进行socket通信向Python深度学习模型发出请求检测操作码序列，Python监听到请求后进行检测将结果返回给Java，Java服务器返回响应结果给客户端。
 关于数据集，交易操作码序列通过EVM插桩技术获取存储到mongodb数据库，充当以太坊全节点。
 
-## Python Requirements
+## 📃Python Requirements
 
 - Python 3.6
 - Tensorflow 1.15.0
@@ -21,7 +21,7 @@
 - Gensim 3.8.3
 - Tqdm 4.49.0
 
-## Python Project
+## 💻Python Project
 
 The CNN-BiLSTM modle structure is below:
 
@@ -47,7 +47,7 @@ The CNN-BiLSTM modle structure is below:
 ├── README.md
 └── requirements.txt
 ```
-## Java Project
+## 💻Java Project
 
 SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
@@ -60,5 +60,5 @@ SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 Lingnan Ethereum Darkness Agent
 
 
-Email: cswygu@qq.com
+✉️: cswygu@qq.com
 
