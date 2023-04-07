@@ -372,11 +372,11 @@ def test_crnn(tx_hash):
         #print(count)
     #print(len(vul))
     dic = dict()
-    dic["txhash"] = tx_hash
+    dic["TXHash"] = tx_hash
     if(index==-1):
-        dic["mingcheng"] = "No vulnerability";
+        dic["Vulnerability"] = "No vulnerability";
     else:
-        dic["mingcheng"] = mingcheng[index];
+        dic["Vulnerability"] = mingcheng[index];
     variables = {
             "limit": 10,
             "offset": 0,
@@ -399,7 +399,7 @@ def test_crnn(tx_hash):
             address.append(name['smartContract']['address']['address'])
 
     #print(type(result))
-    dic["address"]=list(set(address))
+    dic["ContractAddress"]=list(set(address))
     #logger.info(json.dumps(dic))
     return json.dumps(dic)
 
