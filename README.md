@@ -55,6 +55,21 @@ SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
 利用Bitquery中的API来获取交易中涉及到的所有合约地址
 
+## Citation
+
+如果EtherWatchdog对您的研究有帮助，欢迎引用
+
+```
+@inproceedings{gu2023detecting,
+  title={Detecting Unknown Vulnerabilities in Smart Contracts with Multi-Label Classification Model Using CNN-BiLSTM},
+  author={Gu, Wanyi and Wang, Guojun and Li, Peiqiang and Li, Xubin and Zhai, Guangxin and Li, Xiangbin and Chen, Mingfei},
+  booktitle={Ubiquitous Security: Second International Conference, UbiSec 2022, Zhangjiajie, China, December 28--31, 2022, Revised Selected Papers},
+  pages={52--63},
+  year={2023},
+  organization={Springer}
+}
+```
+
 ## 👦👧About Us
 
 Lingnan Ethereum Darkness Agent
