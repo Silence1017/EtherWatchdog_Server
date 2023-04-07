@@ -63,7 +63,7 @@ SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
 利用Bitquery中的API来获取交易中涉及到的所有合约地址
 
-## 🔔展望
+## 🔎展望
 
 畅想一下未来，EtherWatchdog的未来绝不仅仅是一个普通的智能合约漏洞检测平台，它有能力成为像**Etherscan**一样优秀的**区块链搜索**、**API**和**分析平台**。未来🐶想做到：
 ```text
