@@ -24,6 +24,8 @@
 
 The CNN-BiLSTM modle structure is below:
 
+![](https://farm2.staticflickr.com/1915/43842346360_e4660c5921_o.png)
+
 ```text
 .
 ├── Model
