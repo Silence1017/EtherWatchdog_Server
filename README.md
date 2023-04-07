@@ -26,6 +26,7 @@ The project structure is below:
 ├── Model
 │   ├── test_model.py
 │   ├── text_model.py
+│   ├── eth.py 
 │   └── train_model.py
 ├── data
 │   ├── word2vec_100.model.* [Need Download]
