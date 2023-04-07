@@ -17,9 +17,9 @@
 - Gensim 3.8.3
 - Tqdm 4.49.0
 
-## Project
+## Python Project
 
-The project structure is below:
+The python project structure is below:
 
 ```text
 .
@@ -29,7 +29,7 @@ The project structure is below:
 │   ├── eth.py 
 │   └── train_model.py
 ├── data
-│   ├── word2vec_100.model.* [Need Download]
+│   ├── Onehot
 │   ├── Test_sample.json
 │   ├── Train_sample.json
 │   └── Validation_sample.json
