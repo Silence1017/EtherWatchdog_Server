@@ -374,7 +374,7 @@ def test_crnn(tx_hash):
     dic = dict()
     dic["TXHash"] = tx_hash
     if(index==-1):
-        dic["Vulnerability"] = "No vulnerability";
+        dic["Vulnerability"] = "No vulnerability!!!";
     else:
         dic["Vulnerability"] = mingcheng[index];
     variables = {
@@ -390,13 +390,17 @@ def test_crnn(tx_hash):
     # balance = outflow-inflow
     # print ("The balance of the Bitcoin wallet is {}".format(balance))
     print(result)
-    result['data']['ethereum']['smartContractCalls'][0]['address']['address']=""
-    for name in result['data']['ethereum']['smartContractCalls']:
-        if name['address']['address'] == "":
-            address.append(name['smartContract']['address']['address'])
-        else:
-            address.append(name['address']['address'])
-            address.append(name['smartContract']['address']['address'])
+    if result['data']['ethereum']['smartContractCalls']==[]:
+        dic["ContractAddress"] =""
+    else:
+        result['data']['ethereum']['smartContractCalls'][0]['address']['address'] = ""
+        for name in result['data']['ethereum']['smartContractCalls']:
+            if name['address']['address'] == "":
+                address.append(name['smartContract']['address']['address'])
+            else:
+                address.append(name['address']['address'])
+                address.append(name['smartContract']['address']['address'])
+
 
     #print(type(result))
     dic["ContractAddress"]=list(set(address))
