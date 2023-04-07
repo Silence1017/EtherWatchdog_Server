@@ -96,4 +96,4 @@ Lingnan Ethereum Darkness Agent
 
 ## License
 
-PaddleNLP遵循[Apache-2.0开源协议](./LICENSE)。
+EtherWatchdog遵循[Apache-2.0开源协议](./LICENSE)。
