@@ -51,6 +51,10 @@ The CNN-BiLSTM modle structure is below:
 
 SpringBoot+SpringMVC+MyBatisPlus+Maven+Mongodb
 
+## Bitquery
+
+利用Bitquery中的API来获取交易中涉及到的所有合约地址
+
 ## About Us
 
 Lingnan Ethereum Darkness Agent
