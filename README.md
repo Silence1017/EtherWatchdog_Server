@@ -22,7 +22,7 @@
 
 ## Python Project
 
-The python project structure is below:
+The CNN-BiLSTM modle structure is below:
 
 ```text
 .
